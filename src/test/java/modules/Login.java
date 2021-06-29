@@ -33,7 +33,7 @@ public class Login extends PageInitializer {
 		
 		homePage().clickOnTaskButton();
 		
-		taskPage().clickOnaddNewTaskButton();
+		//taskPage().clickOnaddNewTaskButton();
 		
 		
 	}
